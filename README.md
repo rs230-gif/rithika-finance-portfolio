@@ -1,6 +1,6 @@
 Rithika Reddy Shetpalliwar — Finance Portfolio
 
-Project 1: Eli Lilly (NYSE: LLY) - FP&A & Scenario Modeling. (Self-Directed)
+PROJECT 1: Eli Lilly (NYSE: LLY) - FP&A & Scenario Modeling. (Self-Directed)
 
 Integrated FP&A model (FY2025A–FY2030E) evaluating historical performance, FY2026 guidance tracking and Bull/Base/Bear growth scenarios centered on Lilly's GLP-1 franchise. Includes a Power BI dashboard and management-style investment deck.
 
